@@ -4,7 +4,7 @@
 
 **Tableau Public**: dashboard
 
-**Dashboard canvas**: dashboard_canvas.pdf
+**Dashboard canvas**: HR Analytics Dashboard.pdf
 
 **Description**: Tableau Public dashboard consisted of: 
 
