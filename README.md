@@ -6,4 +6,4 @@ Dashboard canvas: dashboard_canvas.pdf
 Description: Tableau Public dashboard consisted of: 
 Skills:
 Technology: Tableau.
-Results: created an analytical dashboard to.
+Results: created an analytical dashboard.
