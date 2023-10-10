@@ -13,9 +13,9 @@ This repository showcases skills, shares projects and tracks my progress in Data
 
 ## Table of Contents 
 
-- [About](https://github.com/Shameem06/Sheik-Shameem-Data-Analyst-Portfolio/edit/main/README.md#about)
+- [About](About)
 
-- [Portfolio Projects](https://github.com/Shameem06/Sheik-Shameem-Data-Analyst-Portfolio/edit/main/README.md#portfolio-projects)
+- [Portfolio Projects](PortfolioProjects)
 
 - [Education](https://github.com/Shameem06/Sheik-Shameem-Data-Analyst-Portfolio/edit/main/README.md#education)
 
