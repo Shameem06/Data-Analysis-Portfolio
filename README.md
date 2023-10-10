@@ -13,21 +13,19 @@ This repository showcases skills, shares projects and tracks my progress in Data
 
 ## Table of Contents 
 
-About
+- [About](https://github.com/Shameem06/Sheik-Shameem-Data-Analyst-Portfolio/edit/main/README.md#about)
 
-Portfolio Projects
+- [Portfolio Projects](https://github.com/Shameem06/Sheik-Shameem-Data-Analyst-Portfolio/edit/main/README.md#portfolio-projects)
 
-Education
+- [Education](https://github.com/Shameem06/Sheik-Shameem-Data-Analyst-Portfolio/edit/main/README.md#education)
 
-Certifications
-
-Contact
+- [Contact](https://github.com/Shameem06/Sheik-Shameem-Data-Analyst-Portfolio/edit/main/README.md#contact)
 
 ## Portfolio Projects 
 
 ### HR Analytics Dashboard
 
-**Tableau Public**: https://public.tableau.com/views/HRData-AnalyticsDashboard/HRAnalyticsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
+**Tableau Public**: [Dashboard](https://public.tableau.com/views/HRData-AnalyticsDashboard/HRAnalyticsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 **Dashboard canvas**: [HR Analytics Dashboard.pdf](https://github.com/Shameem06/Data-Analysis-Projects/blob/21b7472c63f7ad3748f4c06778525da8cc8a546e/HR%20Analytics%20Dashboard.pdf)
 
@@ -39,3 +37,15 @@ Contact
 
 **Results**: created an analytical dashboard.
 
+## Education
+- Master of Science in Management: Digital Business & Innovation (Jan 2022 - May 2023)
+  - _Nyenrode Business University, The Netherlands_ 
+- Global Management Programme (Jun 2021 - Dec 2021)
+  - _SP Jain Institute of Management and Research, India_ 
+- Bachelor of Engineering: Automobile Engineering (Jun 2016 - Apr 2020)
+  - _PSG College of Technology, India_ 
+
+## Contact
+
+- Linkedin: [Sheik Shameem](https://www.linkedin.com/in/sheik-shameem/)
+- Email: [shameem1699@gmail.com](shameem1699@gmail.com)
