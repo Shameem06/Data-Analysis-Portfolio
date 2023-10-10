@@ -13,7 +13,7 @@ This repository showcases skills, shares projects and tracks my progress in Data
 
 ## Table of Contents 
 
-- [About](About)
+- [About](/About)
 
 - [Portfolio Projects](PortfolioProjects)
 
