@@ -19,11 +19,11 @@ This repository showcases skills, shares projects and tracks my progress in Data
 
 - [About](https://github.com/Shameem06/Sheik-Shameem-Data-Analyst-Portfolio#about)
 
-- Portfolio Projects
+- [Portfolio Projects](https://github.com/Shameem06/Sheik-Shameem-Data-Analyst-Portfolio#portfolio-projects)
 
-- Education
+- [Education](https://github.com/Shameem06/Sheik-Shameem-Data-Analyst-Portfolio#education)
 
-- Contact
+- [Contact](https://github.com/Shameem06/Sheik-Shameem-Data-Analyst-Portfolio#contact)
 </details>
 
 ## Portfolio Projects 
