@@ -13,11 +13,11 @@ This repository showcases skills, shares projects and tracks my progress in Data
 
 ## Table of Contents 
 
-- [About](/About)
+- [About](./About)
 
-- [Portfolio Projects](PortfolioProjects)
+- [Portfolio Projects](../PortfolioProjects)
 
-- [Education](https://github.com/Shameem06/Sheik-Shameem-Data-Analyst-Portfolio/edit/main/README.md#education)
+- [Education]
 
 - [Contact](https://github.com/Shameem06/Sheik-Shameem-Data-Analyst-Portfolio/edit/main/README.md#contact)
 
