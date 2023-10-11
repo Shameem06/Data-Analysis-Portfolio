@@ -1,4 +1,4 @@
-# Sheik-Shameem-Data-Analyst-Portfolio
+# Data-Analysis-Portfolio
 
 ## About 
 Hi, I'm Sheik Shameem! I am a Master’s in management graduate from Nyenrode Business University, specializing in Digital Business and Innovation. My journey has been shaped by diverse experiences across two continents. I have developed a strong foundation in management studies and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data analyst.
