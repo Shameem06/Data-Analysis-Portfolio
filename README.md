@@ -30,17 +30,16 @@ This repository showcases skills, shares projects and tracks my progress in Data
 
 ### HR Analytics Dashboard
 
+**Technology**: Tableau
+
 **Tableau Public**: [Dashboard](https://public.tableau.com/views/HRData-AnalyticsDashboard/HRAnalyticsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 **Dashboard canvas**: [HR Analytics Dashboard.pdf](https://github.com/Shameem06/Data-Analysis-Projects/blob/21b7472c63f7ad3748f4c06778525da8cc8a546e/HR%20Analytics%20Dashboard.pdf)
 
-**Description**: Tableau Public dashboard consisted of: 
+**Description**: This Tableau dashboard consists of several graphs and charts which display the employee attrition rates and counts in a company based on several factors such as education, job satisfaction, age group, gender and so on. This results in developing an overall understanding of the nature and causes of employee attrition in the company.
 
-**Skills**:
+**Skills**: Data modelling, Data Visualization, Data comprehension
 
-**Technology**: Tableau.
-
-**Results**: created an analytical dashboard.
 
 ## Education
 - Master of Science in Management: Digital Business & Innovation (Jan 2022 - May 2023)
