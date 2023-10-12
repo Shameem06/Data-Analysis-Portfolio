@@ -47,7 +47,7 @@ This repository showcases skills, shares projects and tracks my progress in Data
 
 **Tableau Public**: [Dashboard](https://public.tableau.com/views/CreditCardComplaintsDashboard_16970683985360/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-**Dashboard canvas**: [Credit Card Complaints Dashboard.pdf](https://github.com/Shameem06/Data-Analysis-Projects/blob/21b7472c63f7ad3748f4c06778525da8cc8a546e/HR%20Analytics%20Dashboard.pdf)
+**Dashboard canvas**: [Credit Card Complaints Dashboard.pdf](https://github.com/Shameem06/Data-Analysis-Portfolio/blob/f07597ddd6b1cd8d8a0aecfd92d0ac5d87963bed/Credit%20card%20complaints%20dashboard.pdf)
 
 **Description**: This Tableau dashboard consists of several graphs and charts which display customer issues and complaints in a credit card company. Trends of these complaints have been tracked and segregated state-wise. This resulted in analysing the important issues and focusing on the areas where improvement is needed.
 
