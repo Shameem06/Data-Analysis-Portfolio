@@ -34,7 +34,7 @@ This repository showcases skills, shares projects and tracks my progress in Data
 
 **Tableau Public**: [Dashboard](https://public.tableau.com/views/EcommerceSalesDashboard_16973952159180/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-**Dashboard canvas**: [Ecommerce Sales Dashboard.pdf](https://github.com/Shameem06/Data-Analysis-Projects/blob/21b7472c63f7ad3748f4c06778525da8cc8a546e/HR%20Analytics%20Dashboard.pdf)
+**Dashboard canvas**: [Ecommerce Sales Dashboard.pdf](https://github.com/Shameem06/Data-Analysis-Portfolio/blob/582a560085186d6883ac4a575dfae519d85bdd6d/Ecommerce%20Sales%20Dashboard.pdf)
 
 **Description**: This Tableau dashboard provides an overall picture of the sales, profit and order quantity of a company's e-commerce sales. The visualizations can be used to compare the data among different categories, market segments and between the current and previous years. This results in developing an overall understanding of e-commerce sales and helps to make data-driven managerial decisions.
 
