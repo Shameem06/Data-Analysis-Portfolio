@@ -28,6 +28,18 @@ This repository showcases skills, shares projects and tracks my progress in Data
 
 ## Portfolio Projects 
 
+### Ecommerce Sales Dashboard
+
+**Technology**: Tableau
+
+**Tableau Public**: [Dashboard](https://public.tableau.com/views/EcommerceSalesDashboard_16973952159180/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+**Dashboard canvas**: [Ecommerce Sales Dashboard.pdf](https://github.com/Shameem06/Data-Analysis-Projects/blob/21b7472c63f7ad3748f4c06778525da8cc8a546e/HR%20Analytics%20Dashboard.pdf)
+
+**Description**: This Tableau dashboard provides an overall picture of the sales, profit and order quantity of a company's e-commerce sales. The visualizations can be used to compare the data among different categories, market segments and between the current and previous years. This results in developing an overall understanding of e-commerce sales and helps to make data-driven managerial decisions.
+
+**Skills**: Data modelling, Data Visualization, Data comprehension
+
 ### HR Analytics Dashboard
 
 **Technology**: Tableau
@@ -40,7 +52,6 @@ This repository showcases skills, shares projects and tracks my progress in Data
 
 **Skills**: Data modelling, Data Visualization, Data comprehension
 
-
 ### Credit Card Complaints Dashboard
 
 **Technology**: Tableau
@@ -52,6 +63,7 @@ This repository showcases skills, shares projects and tracks my progress in Data
 **Description**: This Tableau dashboard consists of several graphs and charts which display customer issues and complaints in a credit card company. Trends of these complaints have been tracked and segregated state-wise. This resulted in analysing the important issues and focusing on the areas where improvement is needed.
 
 **Skills**: Data modelling, Data Visualization, Data comprehension
+
 
 ## Education
 - Master of Science in Management: Digital Business & Innovation (Jan 2022 - May 2023)
