@@ -36,6 +36,8 @@ This repository showcases skills, shares projects and tracks my progress in Data
 
 **Dashboard canvas**: [Ecommerce Sales Dashboard.pdf](https://github.com/Shameem06/Data-Analysis-Portfolio/blob/582a560085186d6883ac4a575dfae519d85bdd6d/Ecommerce%20Sales%20Dashboard.pdf)
 
+**Dataset**: [Raw data link](https://drive.google.com/file/d/1VenmPy5rLs50w0k_9qrH_FS20kJ42toW/view)
+
 **Description**: This Tableau dashboard provides an overall picture of the sales, profit and order quantity of a company's e-commerce sales. The visualizations can be used to compare the data among different categories, market segments and between the current and previous years. This results in developing an overall understanding of e-commerce sales and helps to make data-driven managerial decisions.
 
 **Skills**: Data modelling, Data Visualization, Data comprehension
@@ -61,6 +63,8 @@ This repository showcases skills, shares projects and tracks my progress in Data
 **Tableau Public**: [Dashboard](https://public.tableau.com/views/CreditCardComplaintsDashboard_16970683985360/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 **Dashboard canvas**: [Credit Card Complaints Dashboard.pdf](https://github.com/Shameem06/Data-Analysis-Portfolio/blob/f07597ddd6b1cd8d8a0aecfd92d0ac5d87963bed/Credit%20card%20complaints%20dashboard.pdf)
+
+**Dataset**: [Raw data link](https://docs.google.com/spreadsheets/d/1GhTx27zn5yPC5nyY2SvOmCPgJ4iki0mh/edit#gid=1601405897)
 
 **Description**: This Tableau dashboard consists of several graphs and charts which display customer issues and complaints in a credit card company. Trends of these complaints have been tracked and segregated state-wise. This resulted in analysing the important issues and focusing on the areas where improvement is needed.
 
