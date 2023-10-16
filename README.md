@@ -76,9 +76,9 @@ This repository showcases skills, shares projects and tracks my progress in Data
 
 **Tableau Public**: [Dashboard](https://public.tableau.com/views/AirbnbAnalysisDashboard_16974686301450/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-**Dashboard canvas**: [Airbnb Analysis Dashboard.pdf]()
+**Dashboard canvas**: [Airbnb Analysis Dashboard.pdf](https://github.com/Shameem06/Data-Analysis-Portfolio/blob/3bb0bb4c5bdbb54f6d8a844e82deb2a0790edf47/Airbnb%20Analysis%20Dashboard.pdf)
 
-**Description**: This Tableau dashboard visualizes the Airbnb host data of the eastern regions of the United States. The charts have been classified based on property types, rooms, bed availability, regions, years and so on. This highlights the changes in Airbnb properties and price fluctuations based on various factors over the years.
+**Description**: This Tableau dashboard visualizes the Airbnb host data of the eastern regions of the United States. The charts have been classified based on property types, rooms, bed availability, regions, years and so on. This highlights the changes in Airbnb properties and price fluctuations based on various factors throughout the years.
 
 **Skills**: Data modelling, Data Visualization, Data comprehension
 
