@@ -21,6 +21,11 @@ This repository showcases skills, shares projects and tracks my progress in Data
 
 - [Portfolio Projects](https://github.com/Shameem06/Sheik-Shameem-Data-Analyst-Portfolio#portfolio-projects)
 
+  - [Ecommerce Sales Dashboard](https://github.com/Shameem06/Data-Analysis-Portfolio#ecommerce-sales-dashboard)
+  - [HR Analytics Dashboard](https://github.com/Shameem06/Data-Analysis-Portfolio#hr-analytics-dashboard)
+  - [Credit card Complaints Dashboard](https://github.com/Shameem06/Data-Analysis-Portfolio#credit-card-complaints-dashboard)
+  - [Airbnb Analysis Dashboard](https://github.com/Shameem06/Data-Analysis-Portfolio#airbnb-analysis-dashboard)
+
 - [Education](https://github.com/Shameem06/Sheik-Shameem-Data-Analyst-Portfolio#education)
 
 - [Contact](https://github.com/Shameem06/Sheik-Shameem-Data-Analyst-Portfolio#contact)
