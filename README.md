@@ -7,7 +7,7 @@ During my studies, I honed my ability to work with complex data and developed a 
 
 I enjoy exploring new data analysis tools and techniques in my free time, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-My CV is in ().
+My CV is in [PDF](https://github.com/Shameem06/Data-Analysis-Portfolio/blob/eb5b59d44110d0e4c9efee845523a3e2b7a67e8f/Sheik%20Shameem%20Resume.pdf).
 
 This repository showcases skills, shares projects and tracks my progress in Data analytics-related topics.
 
